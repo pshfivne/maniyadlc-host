@@ -1,0 +1,6 @@
+{
+    "port":  8080,
+    "api":  "https://option-subsequently-usa-scotia.trycloudflare.com",
+    "note":  "Written by tools/Publish-ApiHost.ps1. Read by deploy/vercel/api/[...path].js.",
+    "published":  "2026-09-28T12:04:09Z"
+}
